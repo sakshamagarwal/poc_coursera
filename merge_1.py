@@ -22,4 +22,3 @@ def merge(line):
     result_list.pop()
     return result_list
 
-print merge([8, 16, 16, 8])
