@@ -1,11 +1,10 @@
 """
 Student facing implement of solitaire version of Mancala - Tchoukaillon
-
 Goal: Move as many seeds from given houses into the store
-
 In GUI, you make ask computer AI to make move or click to attempt a legal move
 """
-
+#use this url to run in codeskulptor:
+#http://www.codeskulptor.org/#user40_arJBKSIB4U_1.py
 
 class SolitaireMancala:
     """
@@ -144,5 +143,5 @@ def test_mancala():
 #test_mancala()
 
 # Import GUI code once you feel your code is correct
-#import poc_mancala_gui
-#poc_mancala_gui.run_gui(SolitaireMancala())
+import poc_mancala_gui
+poc_mancala_gui.run_gui(SolitaireMancala())
