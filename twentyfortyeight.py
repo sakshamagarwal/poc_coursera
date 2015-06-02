@@ -1,6 +1,8 @@
 """
 Clone of 2048 game.
 """
+#play at http://www.codeskulptor.org/#user40_08CrSrYosO_5.py
+
 import random
 import poc_2048_gui
 
@@ -153,9 +155,4 @@ class TwentyFortyEight:
         # replace with your code
         return self._grid[row][col]
 
-#obj =TwentyFortyEight(3,4)
-#obj.move(UP)
-#obj.move(DOWN)
-#obj.move(LEFT)
-#obj.move(RIGHT)
 #poc_2048_gui.run_gui(TwentyFortyEight(5, 4))
