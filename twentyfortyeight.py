@@ -91,7 +91,6 @@ class TwentyFortyEight:
         """
         way = OFFSETS[direction]
         my_tiles = self._initial_tiles[direction]
-        #print my_tiles
         changed = False
         for list_starts in my_tiles:
             curr_idx = list(list_starts)
