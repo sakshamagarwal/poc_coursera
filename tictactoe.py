@@ -2,7 +2,7 @@
 Monte Carlo Tic-Tac-Toe Player
 """
 
-#play at http://www.codeskulptor.org/#user40_yjtG03vpcy_5.py
+#play at http://www.codeskulptor.org/#user40_0IACtiEglK_0.py
 
 import random
 import poc_ttt_gui
